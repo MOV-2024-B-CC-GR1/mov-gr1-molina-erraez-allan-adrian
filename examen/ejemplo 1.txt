@@ -1,0 +1,5 @@
+Nombre: ejemplo 1
+Ubicación: Quito
+Teléfono: 098765466
+Año de Fundación: 1999
+Activa: true

@@ -1,0 +1,5 @@
+Nombre: Ejemplo
+Ubicación: Quito
+Teléfono: 0959610833
+Año de Fundación: 1999
+Activa: true

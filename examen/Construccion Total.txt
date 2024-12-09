@@ -1,0 +1,5 @@
+Nombre: Construccion Total
+Ubicación: Guayaquil
+Teléfono: 0789465122
+Año de Fundación: 2000
+Activa: true
