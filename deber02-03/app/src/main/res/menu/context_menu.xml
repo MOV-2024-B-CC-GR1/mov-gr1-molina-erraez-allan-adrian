@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ver_proyectos"
+        android:title="Ver Proyectos"/>
+    <item
+        android:id="@+id/agregar_proyecto"
+        android:title="Añadir Proyecto"/>
+    <item
+        android:id="@+id/editar_empresa"
+        android:title="Editar Empresa"/>
+    <item
+        android:id="@+id/eliminar_empresa"
+        android:title="Eliminar Empresa"/>
+    <item
+        android:id="@+id/ver_mapa"
+        android:title="Ver en Mapa"/>
+</menu>
